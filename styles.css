@@ -1,0 +1,12 @@
+body {
+  max-width: 700px;
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+.listing-date {
+  color: #888;
+  white-space: nowrap;
+}

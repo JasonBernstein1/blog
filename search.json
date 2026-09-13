@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/2026-09-12-hello-world/index.html",
+    "href": "posts/2026-09-12-hello-world/index.html",
+    "title": "Hello, world",
+    "section": "",
+    "text": "This is the first post. Replace this file’s content, and delete this directory once you have real posts.\nEach post lives in its own folder under posts/ as index.qmd, so its URL is posts/&lt;folder-name&gt;/. The date and title in the front matter are what show up as a row on the home page listing."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Bernstein",
+    "section": "",
+    "text": "Date\n\n\n\nPost\n\n\n\n\n\n\n\n\nSep 12, 2026\n\n\nHello, world\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A few notes about who you are and what this site is for."
+  }
+]

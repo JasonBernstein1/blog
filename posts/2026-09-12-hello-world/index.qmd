@@ -1,0 +1,12 @@
+---
+title: "Hello, world"
+date: 2026-09-12
+description: "The first post — replace this with a real one-line summary."
+---
+
+This is the first post. Replace this file's content, and delete this
+directory once you have real posts.
+
+Each post lives in its own folder under `posts/` as `index.qmd`, so its
+URL is `posts/<folder-name>/`. The `date` and `title` in the front matter
+are what show up as a row on the home page listing.

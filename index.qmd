@@ -1,0 +1,14 @@
+---
+title: ""
+listing:
+  contents: posts
+  type: table
+  fields: [date, title]
+  field-display-names:
+    title: "Post"
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---

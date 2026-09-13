@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Jason Bernstein"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/JasonBernstein1
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    title-block-banner: false
+    page-layout: full
